@@ -1,2 +1,2 @@
 # asakpke.github.io
-Created README.md
+Created initial website with GitHub pages.
