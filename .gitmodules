@@ -1,0 +1,3 @@
+[submodule "DWS-Website-Template"]
+	path = DWS-Website-Template
+	url = git@github.com:asakpke/DWS-Website-Template.git
