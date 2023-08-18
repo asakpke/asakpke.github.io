@@ -3,3 +3,4 @@
 
 * [DWS Website Template: Steams](DWS-Website-Template)
 * [Learn PHP Web App Development using MySQL](Learn-PHP-Web-App-Development-using-MySQL)
+* [Web Development Course - HTML](Web-Development-Course)

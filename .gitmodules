@@ -4,3 +4,6 @@
 [submodule "Learn-PHP-Web-App-Development-using-MySQL"]
 	path = Learn-PHP-Web-App-Development-using-MySQL
 	url = git@github.com:asakpke/Learn-PHP-Web-App-Development-using-MySQL.git
+[submodule "Web-Development-Course"]
+	path = Web-Development-Course
+	url = git@github.com:asakpke/Web-Development-Course.git
